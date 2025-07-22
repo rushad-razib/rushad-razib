@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Rushad Razib
 
-<!--
-**rushad-razib/rushad-razib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Full-Stack Developer | 💻 Focused on Laravel & Vue.js  
+🛒 Currently building a complete eCommerce platform (frontend + backend)  
+📚 Learning advanced Laravel features, AJAX, and Vue Composition API  
+⚙️ Passionate about clean code, UI/UX, and solving real-world problems  
+📍 Based in Bangladesh
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- Backend: **Laravel**, REST APIs, MySQL
+- Frontend: **Vue.js**, JavaScript, HTML, CSS, Bootstrap
+- Tools: Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Rushad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushadrazib&show_icons=true&theme=tokyonight)
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](www.linkedin.com/in/rushad-razib-462351262)
+- 🌐 [Portfolio](https://rushadrazib.com/)
+
+---
+
+_“Always learning. Always building.”_
